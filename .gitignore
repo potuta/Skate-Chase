@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]serSettings/
+
+# Rider / VS / VSCode files
+.vs/
+.idea/
+.vscode/
+
+# Crash reports
+sysinfo.txt
+
+# Ignore generated files
+MemoryCaptures/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.swp
+*.tmp
+*.tmp.meta
+*.bak
+*.bak.meta
+*.orig
+*.orig.meta
